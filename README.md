@@ -1,2 +1,3 @@
-# Generative-Adversarial-Networks-GANs-
-Just reimplementation of GANs. Plan to do it first in PyTorch in a notebook &amp; Redo it in TorchLib 
+version https://git-lfs.github.com/spec/v1
+oid sha256:5a8d2a7f3120beb41defaccf0ebee169a9eb4b1a2ad621187277807e99939278
+size 143
